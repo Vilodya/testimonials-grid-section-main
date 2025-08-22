@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://github.com/Vilodya/testimonials-grid-section-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://vilodya.github.io/testimonials-grid-section-main/)
 
 ## My process
 

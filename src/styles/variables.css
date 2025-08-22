@@ -1,0 +1,28 @@
+:root {
+  --purple-50: hsl(260, 100%, 95%);
+  --purple-300: hsl(264, 82%, 70%);
+  --purple-500: hsl(263, 55%, 52%);
+
+  --gray-100: hsl(214, 17%, 92%);
+  --gray-200: hsl(0, 0%, 81%);
+  --gray-400: hsl(224, 10%, 45%);
+  --gray-500: hsl(217, 19%, 35%);
+
+  --white: hsl(0, 0%, 100%);
+  --black: hsl(0, 0%, 7%);
+  --dark-blue: hsl(219, 29%, 14%);
+
+  --main-font: 'Barlow Semi Condensed', Arial, sans-serif;
+  --font-size-base: 13px;
+  --line-height-base: 1.1;
+
+  --font-weight-500: 500;
+  --font-weight-600: 600;
+
+  --spacing-50: 4px;
+  --spacing-100: 8px;
+  --spacing-200: 16px;
+  --spacing-300: 24px;
+  --spacing-400: 32px;
+  --spacing-500: 40px;
+}

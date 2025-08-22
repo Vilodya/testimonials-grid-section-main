@@ -1,0 +1,27 @@
+@mixin text-base {
+  font-family: var(--main-font);
+  font-size: var(--font-size-base);
+  line-height: var(--line-height-base);
+  font-weight: var(--font-weight-500);
+}
+
+@mixin text-preset-1 {
+  @include text-base;
+  font-weight: var(--font-weight-600);
+  font-size: 20px;
+  line-height: 1.2;
+}
+
+@mixin text-preset-2 {
+  @include text-base;
+}
+
+@mixin text-preset-3 {
+  @include text-base;
+  line-height: 1.4;
+}
+
+@mixin text-preset-4 {
+  @include text-base;
+  font-size: 11px;
+}
